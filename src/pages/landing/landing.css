@@ -1,0 +1,23 @@
+body {
+  background-color: #000;
+  
+  background-image: url("/public/9068.jpg");
+  
+  background-position: center;
+  
+  background-repeat: no-repeat;
+  
+  background-size: cover;
+  
+  background-attachment: fixed !important;
+
+  
+}
+
+
+.nav-link:hover {
+  color: green !important;
+}
+.curved-navbar{
+    border-radius: 19px;
+}
